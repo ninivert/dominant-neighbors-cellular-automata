@@ -2,7 +2,7 @@
 
 Quick little script I thought would give a neat effect.
 
-[Click here for a live demo](#)
+[Click here for a live demo](https://ninivert.github.io/dominant-neighbors-cellular-automata/)
 
 ![example1](example1.png)
 
