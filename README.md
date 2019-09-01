@@ -10,4 +10,4 @@ _With 9 colors_
 
 ![example2](example2.png)
 
-_With 3 colors*_
+_With 3 colors_
